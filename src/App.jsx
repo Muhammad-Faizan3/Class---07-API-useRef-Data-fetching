@@ -1,7 +1,7 @@
 
 import "./App.css";
 import { Link } from "react-router-dom";
-import Users from "./components/User.jsx";
+import Users from "./Components/User.jsx";
 
 function App() {
   return (
@@ -14,3 +14,4 @@ function App() {
 }
 
 export default App;
+ 
